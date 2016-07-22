@@ -18,7 +18,8 @@
         { "idx": 15, "name": "蛋黄", "image": "avatar.jpg" },
         { "idx": 16, "name": "Slark", "image": "avatar.jpg" },
         { "idx": 17, "name": "一边玩一边学", "image": "avatar.jpg" },
-        { "idx": 18, "name": "MatRush*", "image": "avatar.jpg" }
+        { "idx": 18, "name": "MatRush*", "image": "avatar.jpg" },
+        { "idx": 19, "name": "小龙", "image": "avatar.jpg" }
     ],
     "edges": [
         { "source": 0, "target": 1, "relation": "Bling" },
@@ -63,6 +64,14 @@
         { "source": 14, "target": 18, "relation": "学长学弟" },
         { "source": 16, "target": 18, "relation": "学长学弟" },
         { "source": 17, "target": 18, "relation": "学长学弟" },
-        { "source": 4, "target": 18, "relation": "从小的好基友" }
+        { "source": 4, "target": 18, "relation": "从小的好基友" },
+        { "source": 0, "target": 19, "relation": "前同事" },
+        { "source": 3, "target": 19, "relation": "前前同事" },
+        { "source": 4, "target": 19, "relation": "前同事" },
+        { "source": 7, "target": 19, "relation": "前同事" },
+        { "source": 8, "target": 19, "relation": "前同事" },
+        { "source": 9, "target": 19, "relation": "前前同事" },
+        { "source": 12, "target": 19, "relation": "前同事" },
+        { "source": 15, "target": 19, "relation": "前同事" }
     ]
 }
